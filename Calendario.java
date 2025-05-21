@@ -24,7 +24,7 @@ public class Calendario {
             case 10: return "Outubro";
             case 11: return "Novembro";
             case 12: return "Dezembro";
-            default: return "Ms não existe";
+            default: return "Mes não existe";
 
         }
     }
